@@ -1,0 +1,10 @@
+@import '../../../sass/variable.scss';
+.iconClass{
+    padding: 0.5rem;
+    border-radius: 50%;
+    background-color:$green-font;
+    color: white;
+}
+.title-style{
+    border-bottom: 2px solid $brown-font;
+}

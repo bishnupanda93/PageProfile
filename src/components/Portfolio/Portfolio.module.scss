@@ -1,0 +1,26 @@
+@import '../../sass/variable.scss';
+.portfolio-container{
+    margin: 3rem 0;
+    ul{
+        li{
+            color: $green-font;
+            span{
+                color: black;
+            }
+        }
+    }
+    .skills-list{
+        padding-left: 5rem;
+        //padding-right: 4rem;
+        @media screen and (max-width:576px){
+            padding: 0 2rem;
+        }
+    }
+}
+.summary-text{
+    padding-left:3rem ;
+    //padding-right: 4rem;
+    @media screen and (max-width:576px){
+        padding: 0 2rem;
+    }
+}

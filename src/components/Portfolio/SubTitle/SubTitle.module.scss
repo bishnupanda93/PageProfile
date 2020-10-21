@@ -1,0 +1,17 @@
+@import '../../../sass/variable.scss';
+.bold-green-text{
+    color: $green-font;
+    font-weight: 600;
+}
+.muted-grey-text{
+    color: $dark-grey-font;
+    font-weight: 600;
+}
+.subtitle-wrapper{
+    padding-left:3rem ;
+    padding-right: 4rem;
+    margin-bottom: 0;
+    @media screen and (max-width:576px){
+        padding: 0 2rem;
+    }
+}

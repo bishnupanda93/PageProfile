@@ -1,0 +1,20 @@
+
+@import '../../sass/variable.scss';
+.header{
+    background-color: $grey-background;
+    //font-family: $common-font;
+    .header-list-group-item{
+        list-style: none;
+        color: $brown-font;
+        padding-left: 0;
+    }
+    .icon-style{
+        color: $green-font;
+    }
+    .linkedIn-style{
+        color: $brown-font;
+        text-decoration: underline;
+    }
+}
+
+
