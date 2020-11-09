@@ -8,66 +8,64 @@ function App() {
     address: 'Mumbai, India',
     phone :'+91 6371744055',
     email:'pandabishnu525@gmail.com',
-    linkedIn:'https://www.linkedin.com/in/priya-gupta-46549aab'
+    linkedIn:'https://www.linkedin.com/in/bishnu-panda-309669113'
   }
-  const summary = 'Highly creative, sassy and motivated front-end web developer with 4.8 years of experience in building and maintaining responsive websites. Passionate about building pixel perfect application, with focus on consistency and reusability of components. Proficient in modern libraries and frameworks and experience in Agile development method.';
+  const summary = 'Highly enthosiastic and motivated QA engineer with 4.7 years of experience in building and maintaining Automated frameworks for both front-end applications and web services. Passionate about learning new technologies and tools.Proficient in both functional- manual testing and non-functional-performance testing and experience in Agile development method.';
   const skills=[
-    'HTML5, CSS3, JavaScript ',
-    'React, Redux, ES6, Jest',
-    'Vue.js, Vuex',
-    'AngularJs, Ionic, Protractor, Jasmine, Karma',
-    'Sass',
-    'jQuery',
-    'webpack, Git, Fiddler, Bitbucket, Jira',
-    'WebStorm, Visual Studio Code'
+    'Functional Testing-: Web Services,	Web Applications, Mobile Applications,	DataBase Testing,	Batch Jobs Testing',
+    'Automation Testing-: UFT,	Selenium,	Rest Assured, Protractor, Postman',
+    'Performance Testing-: LoadRunner, Jmeter',
+    'Tools & Technology-: JavaScript, AngularJs, JIRA, Soap UI, Postman, ALM, SQL Server Management Studio, Visual Studio Code,	Bitbucket, Fiddler, Git, SVN',
   ];
   const experience =[
     {
-      role:"Functional Analiyst",
-      organisation:"ABN AMRO Bank",
-      tenureStart:"JAN 2019",
-      tenureEnd:"PRESENT",
+      role:"Automation Tester",
+      organisation:"ABN Amro Bank",
+      tenureStart:"June 2019",
+      tenureEnd:"Present",
       experienceDetail:[
-          "Developed React application for Employee Portal lite(CRM) wherein employee can search and view contracts of a bank customer.",
-          "Build reusable UI components required as per user experience design and specification.",
-          "Consumed RESTful API using axios and managed state application using Redux and managed routing using React Router.",
-          "Wrote maintainable, scalable, responsive, and cross-browser front end development code",
-          "Collaborated with user experience and business analyst for understanding requirements and found better viable solutions by involving with whole team.",
-          "Prepared technical implementation and design documents for the requirements given."
+        'Built the Automated test suite for Client Application using Selenium IDE.',
+	      'Updated the performance Test suite for Client Application.',
+	      'Created the Automation framework for Java Services using Postman-Newman.',
+	      'Built the Fron-End Automation and completed the framework usng Protractor.',
+	      'Microsoft Azure Certified with fundamental level.',
+	      'Learnt various Tools and Technologies along with the functional deliveries.',
+	      'Worked in multiple Teams and able to provide support for QA assignments.'
       ]
   },
   {
-    role:"Frontend Developer",
-    organisation:"ABN AMRO Bank",
-    tenureStart:"MAR 2017",
-    tenureEnd:"JAN 2019",
+    role:"Automation Tester",
+    organisation:"WireCards NA",
+    tenureStart:"June 2018",
+    tenureEnd:"June 2019",
     experienceDetail:[
-      'Developed Angular Js widgets for Employee Portal Journey Application for searching, viewing contact and contract details, history of the conversation and processes initiated for a bank customer.',
-      'Followed front-end standards as documented and developed new components required as per user experience design and specification.',
-      'Wrote maintainable, scalable, responsive, and cross-browser front end development code.',
-      'Also have written unit testing test cases in Jasmine and have written and performed functional end to end testing using protractor.'
+      'Built the end to end Framework for API automation using UFT.',
+  	  'Performed Regression Testing for UI applications using UFT.',
+	    'Performed Load Testing using Load Runner.'
     ]
   },
   {
-    role:"Hybrid App Developer",
-    organisation:"State Bank of India",
-    tenureStart:"JUL 2016",
-    tenureEnd:"MAR 2017",
+    role:"Functional Tester",
+    organisation:"Prepaid Cards",
+    tenureStart:"June 2017",
+    tenureEnd:"June 2018",
     experienceDetail:[
-      'Developed hybrid mobile application for Task management for iOS and Android platforms. Used languages HTML5, CSS3 and framework like Angular Js and Ionic and Cordova.',
-      'Used Sass as CSS preprocessor for styling mobile app and developed responsive design to function across multiple devices.',
-      'Resolved technical issues through debugging, research, and investigation.'
+      'Build Excel based Macros using JavaScript for various Process Improvements.',
+	    'Received few Appreciations/Awards from Customer and TCS for excellent deliveries and support.',
+	    'Certified as Yellow belt in Lean methodology by providing value adds towards customer satisfaction and savings.',
+	    'Certified as Green belt in Lean methodology by creating value adds for subsequent years.'
     ]
   },
   {
-    role:"Junior Front End Developer",
-    organisation:"Generali Group",
-    tenureStart:"NOV 2015",
-    tenureEnd:"JUN 2016",
+    role:"Functional Tester",
+    organisation:"Citi Bank",
+    tenureStart:"June 2016",
+    tenureEnd:"June 2017",
     experienceDetail:[
-      'Worked on enhancement and change requests in front end for Public Portal web application which showcased products and campaign.',
-      'Fixed bugs and tested code in multiple browsers to ensure cross-browser compatibility.',
-      'Also, developed prototype of mobile application using Hybrid App Technology using Ionic and Angular Js and as a vendor we were successful in winning the project deal.'
+      'Worked as a Functional tester for 1 and half year and able to get the Domain knowledge for various banking procedures and functions.',
+      'ISTQB certified with fundmental level.',
+      'Worked on Database verification for customer transactional data.',
+    	'Worked on Batch jobs for customer payments.'
     ] 
   }
 ]
