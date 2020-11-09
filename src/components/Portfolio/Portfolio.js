@@ -33,7 +33,7 @@ const Portfolio =(props)=>{
                 <Title value="Experience" icon="fa fa-briefcase"></Title>
                 <SubTitle organisation="Tata Consultancy Services" role="Automation Tester"></SubTitle>
                 <Tenure startDate="Mar 2016" endDate="PRESENT"></Tenure>
-                <p className={classes['summary-text']}>System Engineer at TCS and following are accounts/clients’ projects that I have worked upon:</p>
+                <p className={classes['summary-text']}>Functional Analyst at TCS and following are accounts/clients’ projects that I have worked upon:</p>
                 {experience}
             </div>
             <div className="mt-4 pt-2">
