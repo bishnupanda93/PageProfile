@@ -12,8 +12,8 @@ function App() {
   }
   const summary = 'Highly enthosiastic and motivated QA engineer with 4.7 years of experience in building and maintaining Automated frameworks for both front-end applications and web services. Passionate about learning new technologies and tools.Proficient in both functional- manual testing and non-functional-performance testing and experience in Agile development method.';
   const skills=[
-    'Functional Testing-: Web Services,	Web Applications, Mobile Applications,	DataBase Testing,	Batch Jobs Testing',
-    'Automation Testing-: UFT,	Selenium,	Rest Assured, Protractor, Postman',
+    'Functional Testing-: Web Services,	Web Applications, Mobile Applications,	DataBase Testing, Batch Jobs Testing',
+    'Automation Testing-: UFT,	Selenium, Rest Assured, Protractor, Postman',
     'Performance Testing-: LoadRunner, Jmeter',
     'Tools & Technology-: JavaScript, AngularJs, JIRA, Soap UI, Postman, ALM, SQL Server Management Studio, Visual Studio Code,	Bitbucket, Fiddler, Git, SVN',
   ];
